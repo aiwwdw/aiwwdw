@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently learning Mathematcis and Computer Science at KASIT(https://www.kaist.ac.kr/en/).
+📚 I'm interesting about Statistics, Machine Learning, Aritifical Intelligence. 
+
 
 <!--
 **aiwwdw/aiwwdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
