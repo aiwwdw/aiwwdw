@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning Mathematcis and Computer Science at [KASIT](https://www.kaist.ac.kr/en/).
+🌱 I’m currently learning Mathematcis and Computer Science at [KAIST](https://www.kaist.ac.kr/en/).
 
 📚 I'm interesting about Statistics, Machine Learning, Aritifical Intelligence. 
 
